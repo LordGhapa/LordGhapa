@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Estou atuamente trabalhando com a criação de sites em wordpress
-- 🌱 Estou aprendendo HTML,CSS,JS,React
+- 🔭 Estou atuamente trabalhando com a criação de sites
+- 🌱 Estou aprendendo React/NextJs
 - 📫 Contatos [Linkedin ](https://www.linkedin.com/in/felipe-lacerda-oliveira/)
